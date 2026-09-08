@@ -1,5 +1,5 @@
-site_name: Introducción a la Mecatrónica
-site_description: Curso de Introducción a la Mecatrónica — IBERO Puebla
+site_name: Proyecto de Ingeniería I 
+site_description: Curso de Proyecto de Ingeniería I  — IBERO Puebla
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -34,7 +34,7 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: red
+      primary: indigo
   features:
     - content.code.copy
     - content.tooltips
@@ -47,10 +47,5 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 nav:
   - Inicio: index.md
-  - "Sobre Mí": SobreMi.md
-  - "Prácticas":
-      - "Practica 1": Practicas/Practica1.md
   - "Proyectos":
-      - "Proyecto 1": Proyectos/Proyecto1.md
-  - "Reflexiones":
-      - "Vision Mecatronica": Reflexiones/VisionMecatronica.md
+      - "Día 1": Proyectos/Día1.md
