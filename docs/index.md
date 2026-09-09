@@ -1,14 +1,12 @@
 # **Portafolio: Ingeniería Mecatrónica**
 
-**Equipo**:
+**Alumna**:
 
- - Nombre integrante 1
- - Nombre integrante 2
+ - Andrea Paola Carmona Casiano
 
 **Contacto**: 
 
-- Correo integrante 1
-- Correo integrante 2
+- andrea.carmona@iberopuebla.mx
 
 **Carrera**: Ingeniría Mecatrónica
 
