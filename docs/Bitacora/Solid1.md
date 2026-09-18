@@ -60,4 +60,3 @@ Para añadir o quitar material sobre un cuerpo ya existente:
 ![Croquis sobre cara para barreno](./img_solid_1/recorte.png){ width=50% } <br>
 ![Sólido final](./img_solid_1/final.png){ width=50% } <br>
 
-

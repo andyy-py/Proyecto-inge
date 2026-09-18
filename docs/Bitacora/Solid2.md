@@ -73,3 +73,4 @@ Como complemento conceptual a la práctica, exploramos diversos métodos de fija
 1. **Patrón de corte:** Se diseña una serie de ranuras alternadas en un patrón de rejilla sobre la superficie fija
 2. **Distribución:** Se utiliza la herramienta de **Matriz lineal** para repetir los cortes a distancias muy reducidas
 3. **Flexibilidad:** Este tramado permite que un material rígido (como MDF) se dobles sin romperse al redistribuir la tensión a lo largo del corte
+

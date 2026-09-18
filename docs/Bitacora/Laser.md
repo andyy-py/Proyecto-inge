@@ -69,3 +69,4 @@ No todos los materiales son aptos para la cortadora láser CO2 debido a riesgos 
 *  **Materiales no aptos:**
      * **Materiales reflectantes / Vidrio / Acrílico blanco espejo:** Reflejan o rebotan la luz del láser dañando los lentes o perdiendo eficacia.
      * **PVC y Policarbonatos:** Desprenden gases tóxicos y vapores ácidos que dañan la salud y corroen la óptica de la máquina.
+

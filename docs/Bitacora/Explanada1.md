@@ -64,3 +64,4 @@ Una vez cortadas las piezas, se pasa al **esmeril de banco** (piedra de esmerila
 
 
 ![Esmeril de Banco](./img_explanada_1/esmeril.jpg){ width=35% } ![Comparación del metal antes y después de pulir](./img_explanada_1/limpio.jpg){ width=35% }
+
