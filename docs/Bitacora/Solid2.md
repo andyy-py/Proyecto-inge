@@ -11,8 +11,8 @@ En esta sesión dimos el salto del modelado de piezas individuales al **diseño 
 
 ## 1. Planificación Previa y Bocetaje
 Antes de iniciar el modelado en la computadora, el primer paso fundamental es realizar un boceto a mano sobre papel:
-    * Permite conceptualizar las dimensiones generales y los tipos de encaje antes de trazar
-    * Optimiza el tiempo en software al tener claras las dimensiones y caras correspondientes
+    - Permite conceptualizar las dimensiones generales y los tipos de encaje antes de trazar
+    - Optimiza el tiempo en software al tener claras las dimensiones y caras correspondientes
 
 ---
 
