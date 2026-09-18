@@ -10,10 +10,12 @@ En esta sesión aprendimos el protocolo de seguridad, encendido, calibración y 
 ---
 
 ## 1. Inspección Previa y Sistema de Enfriamiento
+
 Antes de encender el equipo principal, se debe verificar el estado del sistema:
-- 1. **Encendido base:** Se acciona el interruptor general ubicado en la parte inferior de la máquina
-- 2. **Verificación de la Enfriadora:** Es **estrictamente obligatorio** comprobar que el enfriador encienda y funcione correctamente.
-    - **Riesgo crítico:** Operar el láser sin enfriamiento adecuado causa sobrecalentamiento de inmediato, provocando pérdida de potencia, fracturas o choque térmico que destruye el módulo.
+
+1. **Encendido base:** Se acciona el interruptor general ubicado en la parte inferior de la máquina
+2. **Verificación de la Enfriadora:** Es **estrictamente obligatorio** comprobar que el enfriador encienda y funcione correctamente.
+    * **Riesgo crítico:** Operar el láser sin enfriamiento adecuado causa sobrecalentamiento de inmediato, provocando pérdida de potencia, fracturas o choque térmico que destruye el módulo.
 
 ![Botón de encendido general](./img_laser/encender.jpg){ width=35% } <br>
 ![Enfriamiento](./img_laser/enfriar.jpg){ width=35% }  ![Cortadora Láser CAMFive](./img_laser/maquina.jpg){ width=35% }
