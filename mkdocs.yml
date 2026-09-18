@@ -47,5 +47,5 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 nav:
   - Inicio: index.md
-  - "Proyectos":
-      - "Día 1": Proyectos/Día1.md
+  - "Bitacora":
+      - "Inicios en SolidWorks": Bitacora/Solid1.md
