@@ -16,8 +16,8 @@ Antes de operar cualquier maquinaria o iniciar procesos térmicos, es obligatori
 * **Gafas de seguridad:** Obligatorias en todo momento en el taller para proteger los ojos contra chispas, virutas y salpicaduras metálicas
 * **Guantes de carnaza y careta fotosensible:** Indispensables para la soldadura. La careta se oscurece automáticamente al detectar la luz del arco eléctrico para proteger la vista contra la radiación UV e infrarroja
 
-![Equipo de Protección](./img_explanada_1/peto.jpg){ width=50% } <br>
-![Equipo de Protección](./img_explanada_1/careta.jpg){ width=50% } <br>
+![Equipo de Protección](./img_explanada_1/peto.jpg){ width=35% } 
+![Equipo de Protección](./img_explanada_1/careta.jpg){ width=35% }
 
 ---
 
@@ -25,7 +25,7 @@ Antes de operar cualquier maquinaria o iniciar procesos térmicos, es obligatori
 
 Utilizamos una soldadora industrial marca **Miller** para el proceso de soldadura por arco con **electrodo revestido**
 
-![Soldadora Miller](./img_explanada_1/maquina_soldar.jpg){ width=50% } <br>
+![Soldadora Miller](./img_explanada_1/maquina_soldar.jpg){ width=35% }
 
 
 ### Configuración y Técnica de Soldadura:
@@ -35,8 +35,8 @@ Utilizamos una soldadora industrial marca **Miller** para el proceso de soldadur
    * El electrodo debe mantenerse **muy cerca del metal** sin tocarlo fijamente ni alejarlo demasiado, avanzando a una velocidad constante
    * *Nota de técnica:* Avanzar muy rápido o mantener el electrodo muy alejado quema el material; ir muy lento acumula exceso de calor (igual lo quema)
 
-![Resultado de Soldadura 1](./img_explanada_1/soldadura_1.jpg){ width=50% } 
-![Resultado de Soldadura 2](./img_explanada_1/soldadura_2.jpg){ width=50% } <br>
+![Resultado de Soldadura 1](./img_explanada_1/soldadura_1.jpg){ width=35% } 
+![Resultado de Soldadura 2](./img_explanada_1/soldadura_2.jpg){ width=35% } 
 
 ---
 
@@ -44,8 +44,8 @@ Utilizamos una soldadora industrial marca **Miller** para el proceso de soldadur
 
 Para el cortado de barras metálicas utilizamos la **tronzadora de disco abrasivo**, la cual permite realizar cortes rectos a 90° y hay otra que hace cortes a 45°
 
-![Cortadora de Metas - 1](./img_explanada_1/cortadora_1.jpg){ width=50% } 
-![Cortadora de Metas - 2](./img_explanada_1/cortadora_2.jpg){ width=50% } <br>
+![Cortadora de Metas - 1](./img_explanada_1/cortadora_1.jpg){ width=35% } 
+![Cortadora de Metas - 2](./img_explanada_1/cortadora_2.jpg){ width=35% } 
 
 
 ### Criterios Operativos y Seguridad:
@@ -66,5 +66,5 @@ Una vez cortadas las piezas, se pasa al **esmeril de banco** (piedra de esmerila
 * **Técnica:** Se acerca la pieza firmemente contra la piedra en rotación de manera uniforme hasta obtener un acabado liso y seguro para el ensamble
 
 
-![Esmeril de Banco](./img_explanada_1/esmeril.jpg){ width=50% }
-![Comparación del metal antes y después de pulir](./img_explanada_1/limpio.jpg){ width=50% } <br>
+![Esmeril de Banco](./img_explanada_1/esmeril.jpg){ width=35% }
+![Comparación del metal antes y después de pulir](./img_explanada_1/limpio.jpg){ width=35% }
