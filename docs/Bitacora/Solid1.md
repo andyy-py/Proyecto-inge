@@ -1,6 +1,5 @@
 ---
 titulo: "Inicios en SolidWorks"
-fecha: 2026-08-28
 autor: "Andrea Paola Carmona Casiano"
 ---
 
@@ -14,7 +13,7 @@ En esta sesión aprendimos los fundamentos del dibujo digital en **SolidWorks**,
 
 Para comenzar cualquier pieza , el primer paso es definir sobre qué vista vamos a trabajar (**Alzado**, **Planta** o **Vista lateral**)
 
-* **Práctica común:** Seleccionar el plano **Alzado** para dibujar el perfil frontal principal de la figura.
+* **Práctica común:** Seleccionar el plano **Alzado** para dibujar el perfil frontal principal de la figura
 * Una vez elegido el plano, abrimos la herramienta **Croquis** para trazar las líneas base
 
 ![Plano de Alzado y Sólido Base](./img_solid_1/plano_alzado.png){ width=50% } <br>
@@ -28,8 +27,8 @@ Durante el trazado de líneas, es indispensable definir completamente la geometr
 * **Relaciones de posición (íconos verdes):** Permiten fijar líneas de forma **Horizontal**, **Vertical**, **Tangente** entre otros
 * **Cota Inteligente:** Herramienta utilizada para asignar dimensiones exactas a los bordes o diámetros
 * **Estado del Croquis:** 
-  * **Líneas Azules:** Insuficientemente definido (se puede deformar)
-  * **Líneas Negras:** Completamente definido (todas las dimensiones están fijas)
+    * **Líneas Azules:** Insuficientemente definido (se puede deformar)
+    * **Líneas Negras:** Completamente definido (todas las dimensiones están fijas)
 
 ![Croquis con cotas inteligentes y relaciones](./img_solid_1/cotas_relaciones.png){ width=50% } <br>
 
@@ -55,8 +54,8 @@ Para añadir o quitar material sobre un cuerpo ya existente:
 2. Creamos un nuevo **Croquis** en esa superficie
 3. Dibujamos la figura requerida (por ejemplo, un círculo)
 4. Usamos las herramientas de **Operaciones**:
-   * **Extruir Corte:** Para quitar o perforar el material
-   * **Saliente/Extruir:** Para añadir material o nuevas secciones
+    * **Extruir Corte:** Para quitar o perforar el material
+    * **Saliente/Extruir:** Para añadir material o nuevas secciones
 
 ![Croquis sobre cara para barreno](./img_solid_1/recorte.png){ width=50% } <br>
 ![Sólido final](./img_solid_1/final.png){ width=50% } <br>
