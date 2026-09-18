@@ -25,7 +25,7 @@ Para optimizar el trazado de los perfiles y encajes de las caras de la caja, emp
 * **Simetría de entidades:** Permite reflejar trazados completos respecto a un eje de simetría.
 * **Matriz lineal de croquis:** Herramienta utilizada para duplicar geometría definiendo la distancia exacta entre cada elemento y el número total de repeticiones
 
-![Croquis de la cara](./img_solid_2/croquis_1.png){ width=50% }  ![Croquis de la tapa](./img_solid_2/croquis_2.png){ width=50% }
+![Croquis de la cara](./img_solid_2/croquis_1.png){ width=50% } ![Croquis de la tapa](./img_solid_2/croquis_2.png){ width=50% }
 
 ---
 
@@ -36,7 +36,7 @@ Siguiendo los criterios de diseño, generamos los archivos individuales de las p
 * Creación de la **cara frontal/lateral** y de la **tapa (superior/inferior)**
 * Uso de la operación **Saliente/Extruir** respetando las cotas inteligentes para asegurar que las líneas se mantengan **completamente definidas (negras)**
 
-![Pieza Sólida 1](./img_solid_2/solido_1.png){ width=50% }  ![Pieza Sólida 2](./img_solid_2/solido_2.png){ width=50% }
+![Pieza Sólida 1](./img_solid_2/solido_1.png){ width=50% } ![Pieza Sólida 2](./img_solid_2/solido_2.png){ width=50% }
 
 ---
 
