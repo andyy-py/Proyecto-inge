@@ -1,0 +1,799 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Curso de Proyecto de Ingeniería I  — IBERO Puebla">
+      
+      
+      
+      
+        <link rel="prev" href="../Solid2/">
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Cortadora Láser - Proyecto de Ingeniería I</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cortadora-laser" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Proyecto de Ingeniería I" class="md-header__button md-logo" aria-label="Proyecto de Ingeniería I" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Proyecto de Ingeniería I
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cortadora Láser
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Proyecto de Ingeniería I" class="md-nav__button md-logo" aria-label="Proyecto de Ingeniería I" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Proyecto de Ingeniería I
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicio
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bitacora
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Bitacora
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Solid1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inicios en SolidWorks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Explanada1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Soldadura, Corte y Pulido
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Solid2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Diseño de Ensambles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cortadora Láser
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cortadora Láser
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-inspeccion-previa-y-sistema-de-enfriamiento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Inspección Previa y Sistema de Enfriamiento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-secuencia-de-encendido-en-3-pasos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Secuencia de Encendido en 3 Pasos
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-configuracion-del-origen-y-enfoque" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Configuración del Origen y Enfoque
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Configuración del Origen y Enfoque">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ajuste-de-coordenadas-en-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ajuste de Coordenadas en Panel:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calibracion-de-la-boquilla-distancia-focal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Calibración de la Boquilla (Distancia Focal):
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-flujo-de-trabajo-en-software-smartcarve-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Flujo de Trabajo en Software SmartCarve 4
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-restricciones-y-seguridad-de-materiales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Restricciones y Seguridad de Materiales
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-inspeccion-previa-y-sistema-de-enfriamiento" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Inspección Previa y Sistema de Enfriamiento
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-secuencia-de-encendido-en-3-pasos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Secuencia de Encendido en 3 Pasos
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-configuracion-del-origen-y-enfoque" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Configuración del Origen y Enfoque
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Configuración del Origen y Enfoque">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ajuste-de-coordenadas-en-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ajuste de Coordenadas en Panel:
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#calibracion-de-la-boquilla-distancia-focal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Calibración de la Boquilla (Distancia Focal):
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-flujo-de-trabajo-en-software-smartcarve-4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Flujo de Trabajo en Software SmartCarve 4
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-restricciones-y-seguridad-de-materiales" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5. Restricciones y Seguridad de Materiales
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="cortadora-laser">Cortadora Láser</h1>
+<p>En esta sesión aprendimos el protocolo de seguridad, encendido, calibración y envío de archivos para la fabricación de piezas en la cortadora láser <strong>CAMFive</strong></p>
+<hr />
+<h2 id="1-inspeccion-previa-y-sistema-de-enfriamiento">1. Inspección Previa y Sistema de Enfriamiento</h2>
+<p>Antes de encender el equipo principal, se debe verificar el estado del sistema:</p>
+<ol>
+<li><strong>Encendido base:</strong> Se acciona el interruptor general ubicado en la parte inferior de la máquina</li>
+<li><strong>Verificación de la Enfriadora:</strong> Es <strong>estrictamente obligatorio</strong> comprobar que el enfriador encienda y funcione correctamente.<ul>
+<li><strong>Riesgo crítico:</strong> Operar el láser sin enfriamiento adecuado causa sobrecalentamiento de inmediato, provocando pérdida de potencia, fracturas o choque térmico que destruye el módulo.</li>
+</ul>
+</li>
+</ol>
+<p><img alt="Botón de encendido general" src="../img_laser/encender.jpg" width="35%" /> <br>
+<img alt="Enfriamiento" src="../img_laser/enfriar.jpg" width="35%" />  <img alt="Cortadora Láser CAMFive" src="../img_laser/maquina.jpg" width="35%" /></p>
+<hr />
+<h2 id="2-secuencia-de-encendido-en-3-pasos">2. Secuencia de Encendido en 3 Pasos</h2>
+<p>Una vez activo el sistema de enfriamiento, el panel lateral derecho requiere tres pasos de seguridad:</p>
+<ol>
+<li>Subir la <strong>palanquilla / interruptor principal</strong></li>
+<li>Girar y desenclavar el <strong>botón de Paro de Emergencia</strong></li>
+<li>Insertar y girar la <strong>llave de seguridad</strong> para habilitar el energizado del sistema</li>
+</ol>
+<p><img alt="Panel de encendido" src="../img_laser/3_pasos.jpg" width="35%" /></p>
+<hr />
+<h2 id="3-configuracion-del-origen-y-enfoque">3. Configuración del Origen y Enfoque</h2>
+<h3 id="ajuste-de-coordenadas-en-panel">Ajuste de Coordenadas en Panel:</h3>
+<ul>
+<li><strong>Flechas de dirección:</strong> Mueven la cabeza del láser sobre la mesa de trabajo.</li>
+<li><strong>Botón <code>Origin</code>:</strong> Establece las coordenadas del punto de inicio del corte.</li>
+<li><strong>Botón <code>Esc</code> (doble toque):</strong> Regresa la cabeza del láser automáticamente al origen configurado.</li>
+</ul>
+<p><img alt="Ajuste de Coordenadas en Panel" src="../img_laser/panel.jpg" width="35%" /></p>
+<h3 id="calibracion-de-la-boquilla-distancia-focal">Calibración de la Boquilla (Distancia Focal):</h3>
+<ul>
+<li>La distancia estándar requerida entre la boquilla y el material es de <strong>5 mm</strong> (equivalente al grosor de una memoria USB estándar).</li>
+<li><strong>Diagnóstico visual:</strong><ul>
+<li>✗ <strong>Punto grueso:</strong> Indica mala calibración; el haz pierde densidad y solo quema la superficie sin atravesar.</li>
+<li>✓ <strong>Punto fino y limpio:</strong> Indica calibración exacta; el haz alcanza su máxima densidad de potencia y realiza un corte delgado (<em>kerf</em>) atravesando el material.</li>
+</ul>
+</li>
+</ul>
+<p><img alt="Calibración de la distancia focal" src="../img_laser/boquilla.jpg" width="35%" /></p>
+<hr />
+<h2 id="4-flujo-de-trabajo-en-software-smartcarve-4">4. Flujo de Trabajo en Software SmartCarve 4</h2>
+<ol>
+<li><strong>Licencia:</strong> Conectar la llave de protección por hardware para poder abrir el software <strong>SmartCarve 4</strong>.</li>
+<li><strong>Importación:</strong> Importar el archivo (formato <code>.DXF</code>).</li>
+<li><strong>Centrado:</strong> Alinear y centrar el diseño respecto al origen definido usando la herramienta del programa.</li>
+<li><strong>Comprobación (<code>Go Scale</code>):</strong> Ejecutar la función <em>Go Scale</em> en la máquina para que el láser recorra el perímetro del área a cortar sobre el material.</li>
+<li><strong>Activación del Láser y Ejecución:</strong> Presionar el botón físico de <strong>Encender Láser</strong> en la máquina (obligatorio para permitir la emisión del laser) y presionar el botón de corte en el software.</li>
+</ol>
+<p><img alt="Interfaz SmartCarve 4 y centrado" src="../img_laser/software.jpg" width="35%" /></p>
+<hr />
+<h2 id="5-restricciones-y-seguridad-de-materiales">5. Restricciones y Seguridad de Materiales</h2>
+<p>No todos los materiales son aptos para la cortadora láser CO2 debido a riesgos de reflexión óptica, fuego o corrosión:</p>
+<ul>
+<li><strong>Materiales no aptos:</strong><ul>
+<li><strong>Materiales reflectantes / Vidrio / Acrílico blanco espejo:</strong> Reflejan o rebotan la luz del láser dañando los lentes o perdiendo eficacia.</li>
+<li><strong>PVC y Policarbonatos:</strong> Desprenden gases tóxicos y vapores ácidos que dañan la salud y corroen la óptica de la máquina.</li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["content.code.copy", "content.tooltips", "navigation.sections"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
