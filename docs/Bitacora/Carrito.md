@@ -14,8 +14,7 @@ Para el desarrollo del vehículo, se tomó como base una imagen de referencia vi
 - **Uso de simetrías:** Las piezas dobles (como laterales y deflectores) se diseñaron utilizando la operación de simetría en el mismo archivo para asegurar precisión dimensional y optimizar tiempo
 
 ![Estructura de la carpeta de archivos y piezas](./img_f1/archivos.png){ width=50% } 
-![Modelado de pieza individual en SolidWorks](./img_f1/pieza.png){ width=50% }
-![Modelado de pieza con simetria en SolidWorks](./img_f1/simetria.png){ width=50% }
+![Modelado de pieza individual en SolidWorks](./img_f1/pieza.png){ width=50% }![Modelado de pieza con simetria en SolidWorks](./img_f1/simetria.png){ width=50% }
 
 ---
 
@@ -66,7 +65,7 @@ El armado del monoplaza siguió un orden modular para asegurar la rigidez del ch
 4. **Alerón y habitáculo:** Ensamble de la cola trasera (**P18**, **P7**, **P10**), seguido del asiento (**P15**) y soportes de la parte de arriba (**P1**)
 5. **Frontal y ruedas externas:** Acople de la nariz (**P19**), decoraciones laterales (**P11**), ensamble los 16 discos de llantas (**P23**) con sus rines que servian de tapones (**P24**) y paneles laterales de cierre (**P22**)
 
-![Proceso](./img_f1/armado1.png){ width=50% }![Proceso](./img_f1/armado2.png){ width=50% }![Proceso](./img_f1/armado3.png){ width=50% }![Proceso](./img_f1/armado4.png){ width=50% }![Proceso](./img_f1/armado5.png){ width=50% }![Proceso](./img_f1/armado6.png){ width=50% }![Proceso](./img_f1/armado7.png){ width=50% }![Proceso](./img_f1/armado8.png){ width=50% }![Proceso](./img_f1/armado9.png){ width=50% }![Proceso](./img_f1/armado10.png){ width=50% }![Proceso](./img_f1/armado11.png){ width=50% }![Proceso](./img_f1/armado12.png){ width=50% }
+![Proceso](./img_f1/armado1.png){ width=50% }![Proceso](./img_f1/armado3.png){ width=50% }![Proceso](./img_f1/armado4.png){ width=50% }![Proceso](./img_f1/armado5.png){ width=50% }![Proceso](./img_f1/armado6.png){ width=50% }![Proceso](./img_f1/armado7.png){ width=50% }![Proceso](./img_f1/armado8.png){ width=50% }![Proceso](./img_f1/armado9.png){ width=50% }
 
 ---
 
