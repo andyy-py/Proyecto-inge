@@ -9,7 +9,7 @@ autor: "Andrea Paola Carmona Casiano"
 ## 1. Instrumentos de Medición de Precisión
 
 ### Calibrador Vernier
-Es un instrumento de medición directa con una resolución de **$0.05\text{ mm}$**. Permite tomar dimensiones exteriores, interiores y profundidades mediante una regla graduada fija y una escala deslizante
+Es un instrumento de medición directa con una resolución de 0.05mm. Permite tomar dimensiones exteriores, interiores y profundidades mediante una regla graduada fija y una escala deslizante
 
 * **Mordazas exteriores:** Para medir largos, anchos y grosores
 * **Puntas interiores:** Para medir diámetros de agujeros y ranuras
@@ -20,7 +20,7 @@ Es un instrumento de medición directa con una resolución de **$0.05\text{ mm}$
 ---
 
 ### Micrómetro
-Instrumento de alta precisión basado en un tornillo micrométrico. Permite realizar mediciones con una resolución de **$0.01\text{ mm}$**. Cuenta con una escala lineal en el cilindro y un tambor giratorio con trinquete de apriete para no deformar la pieza medida.
+Instrumento de alta precisión basado en un tornillo micrométrico. Permite realizar mediciones con una resolución de 0.01mm. Cuenta con una escala lineal en el cilindro y un tambor giratorio con trinquete de apriete para no deformar la pieza medida.
 
 ![Micrómetro de exteriores](./img_taller/micrometro.png){ width=48% }![Lectura en micrómetro](./img_taller/uso_micrometro.png){ width=48% }
 
@@ -60,7 +60,7 @@ Durante la explicación de herramientas de corte para mecanizado, se destacaron 
 * **Fresa:** Diseñada principalmente para **cortar hacia los lados** (desplazamiento lateral en ejes X e Y). Aunque algunas fresas pueden profundizar axialmente, no es su función principal
 * **Regla de cantidad de filos:** *A mayor cantidad de filos en la fresa, el material a cortar puede ser más duro, pero la velocidad de remoción es más lenta*
 
-![Broca y Fresa en comparación](./img_taller/brocas_fresas.png){ width=50% }
+![Broca y Fresa en comparación](./img_taller/brocas_fresas.png){ width=50% } <br>
 **No me pasaron para tomarle foto :P**
 ---
 
@@ -70,38 +70,39 @@ Durante la explicación de herramientas de corte para mecanizado, se destacaron 
 Es una máquina herramienta utilizada para el mecanizado de piezas mediante el arranque de viruta con una herramienta rotativa multicorte (fresa). Permite realizar planeados, ranurados, rebajes y perfilados de alta precisión en diversos materiales
 
 - **Ajuste de altura y nivelación:** Cuenta con una manivela o palanca lateral que desplaza verticalmente el cabezal o la mesa para calibrar la profundidad de corte exacta sobre la pieza
-- **Control de velocidad:** Dispone de un selector mecánico o de poleas para configurar los rangos de **velocidad mínima y máxima**. Mediante este sistema se selecciona las revoluciones por minuto ($\text{RPM}$) adecuadas dependiendo de la dureza del material a trabajar
+- **Control de velocidad:** Dispone de un selector mecánico o de poleas para configurar los rangos de **velocidad mínima y máxima**. Mediante este sistema se selecciona las revoluciones por minuto (RPM) adecuadas dependiendo de la dureza del material a trabajar
 - **Puesta en marcha:** El encendido sigue una secuencia de seguridad: se gira la perilla selectora para definir el sentido de giro y rango de velocidad, y posteriormente se presiona el botón de arranque principal
 - **Sujeción de la pieza:** Cuenta con una mesa de trabajo ranurada donde se fija firmemente la pieza (o un bloque de madera/metal) mediante un tornillo de banco o prensas de sujeción para evitar cualquier vibración o desplazamiento peligroso durante el mecanizado
 
-![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=48% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=48% }![Fresadora vertical de taller 3](./img_taller/fresadora3.png){ width=48% }![Fresadora vertical de taller 4](./img_taller/fresadora4.png){ width=48% }
+![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=48% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=48% }![Fresadora vertical de taller 3](./img_taller/fresadora4.png){ width=48% }
+![Fresadora vertical de taller 4](./img_taller/fresadora3.png){ width=48% }
 
-[*Demostración de funcionamiento: Fresadora*](./img_practica_6/uso_fresadora.mp4) <br>
+[*Demostración de funcionamiento: Fresadora*](./img_taller/uso_fresadora.mp4) <br>
 
 
 
 ### Sierra de Cinta 
-Máquina de corte continuo mediante una hoja metálica dentada en bucle
-* **Procedimiento de encendido en 3 pasos:**
-  1. Encender el **switch trasero** principal
-  2. Activar la **palanca delantera**
-  3. Presionar el **botón delantero** de arranque
+Máquina de corte continuo mediante una hoja metálica dentada en bucle <br>
+- **Procedimiento de encendido en 3 pasos:**
+ - 1. Encender el **switch trasero** principal
+ - 2. Activar la **palanca delantera**
+ - 3. Presionar el **botón delantero** de arranque
 
 ![Sierra de cinta de taller](./img_taller/sierra_cinta.png){ width=48% }
 
 ---
 
 ### Guillotina de Lámina
-Máquina verde de cizallado mecánico para realizar cortes rectos y limpios en láminas de metal
-* **Límite de capacidad:** Diseñada para cortar lámina con un espesor máximo de **$1.5\text{ mm}$**
+Máquina verde de cizallado mecánico para realizar cortes rectos y limpios en láminas de metal <br>
+- **Límite de capacidad:** Diseñada para cortar lámina con un espesor máximo de 1.5mm
 
 ![Guillotina verde de lámina](./img_taller/guillotina.png){ width=48% }![Guillotina en uso verde de lámina](./img_taller/guillotina_uso.png){ width=48% }
 
 ---
 
 ### Dobladora de Lámina
-Equipo utilizado para la deformación plástica y prensado de metal en ángulos rectos o pestañas
-* **Uso:** Sirve para **doblar y prensar** láminas respetando el límite de espesor del taller ($1.5\text{ mm}$)
+Equipo utilizado para la deformación plástica y prensado de metal en ángulos rectos o pestañas <br>
+- **Uso:** Sirve para **doblar y prensar** láminas respetando el límite de espesor del taller (1.5mm)
 
 ![Dobladora de lámina](./img_taller/dobladora1.png){ width=48% }![Dobladora de lámina](./img_taller/dobladora2.png){ width=48% }
 
