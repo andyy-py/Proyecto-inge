@@ -74,7 +74,8 @@ Es una máquina herramienta utilizada para el mecanizado de piezas mediante el a
 - **Puesta en marcha:** El encendido sigue una secuencia de seguridad: se gira la perilla selectora para definir el sentido de giro y rango de velocidad, y posteriormente se presiona el botón de arranque principal
 - **Sujeción de la pieza:** Cuenta con una mesa de trabajo ranurada donde se fija firmemente la pieza (o un bloque de madera/metal) mediante un tornillo de banco o prensas de sujeción para evitar cualquier vibración o desplazamiento peligroso durante el mecanizado
 
-![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=48% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=48% }![Fresadora vertical de taller 3](./img_taller/fresadora4.png){ width=48% }
+![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=35% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=35% }![Fresadora vertical de taller 3](./img_taller/fresadora4.png){ width=35% } <br>
+
 ![Fresadora vertical de taller 4](./img_taller/fresadora3.png){ width=48% }
 
 [*Demostración de funcionamiento: Fresadora*](./img_taller/uso_fresadora.mp4) <br>
@@ -83,10 +84,10 @@ Es una máquina herramienta utilizada para el mecanizado de piezas mediante el a
 
 ### Sierra de Cinta 
 Máquina de corte continuo mediante una hoja metálica dentada en bucle <br>
-- **Procedimiento de encendido en 3 pasos:**
- - 1. Encender el **switch trasero** principal
- - 2. Activar la **palanca delantera**
- - 3. Presionar el **botón delantero** de arranque
+**Procedimiento de encendido en 3 pasos:** <br>
+ 1. Encender el **switch trasero** principal <br>
+ 2. Activar la **palanca delantera** <br>
+ 3. Presionar el **botón delantero** de arranque <br>
 
 ![Sierra de cinta de taller](./img_taller/sierra_cinta.png){ width=48% }
 
@@ -94,7 +95,7 @@ Máquina de corte continuo mediante una hoja metálica dentada en bucle <br>
 
 ### Guillotina de Lámina
 Máquina verde de cizallado mecánico para realizar cortes rectos y limpios en láminas de metal <br>
-- **Límite de capacidad:** Diseñada para cortar lámina con un espesor máximo de 1.5mm
+**Límite de capacidad:** Diseñada para cortar lámina con un espesor máximo de 1.5mm
 
 ![Guillotina verde de lámina](./img_taller/guillotina.png){ width=48% }![Guillotina en uso verde de lámina](./img_taller/guillotina_uso.png){ width=48% }
 
@@ -102,7 +103,7 @@ Máquina verde de cizallado mecánico para realizar cortes rectos y limpios en l
 
 ### Dobladora de Lámina
 Equipo utilizado para la deformación plástica y prensado de metal en ángulos rectos o pestañas <br>
-- **Uso:** Sirve para **doblar y prensar** láminas respetando el límite de espesor del taller (1.5mm)
+**Uso:** Sirve para **doblar y prensar** láminas respetando el límite de espesor del taller (1.5mm)
 
 ![Dobladora de lámina](./img_taller/dobladora1.png){ width=48% }![Dobladora de lámina](./img_taller/dobladora2.png){ width=48% }
 
