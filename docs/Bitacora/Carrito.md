@@ -27,7 +27,7 @@ Antes de realizar el corte físico, se creó un archivo de **Ensamble 3D** para 
 - **Mecanismo del volante:** Se modeló el subensamble articulado del volante mediante un tope mecánico que permite su rotación libre sin desprenderse de la columna de dirección
 - **Bisagra viva:** Al ser un elemento flexible, no se modeló en el ensamble 3D comprimido, sino que se preparó vectorialmente para su flexión tras el corte
 
-![Ensamble Digital 3D en SolidWorks](./img_f1/ensamble.png){ width=50% } ![Detalle del mecanismo del volante](./img_f1/volante.png){ width=50% }
+![Ensamble Digital 3D en SolidWorks](./img_f1/ensamble.png){ width=50% }![Detalle del mecanismo del volante](./img_f1/volante.png){ width=50% }
 
 ---
 
@@ -46,8 +46,7 @@ El archivo `.DXF` se cargó en el software **Falcon Design Space** para ser proc
 | **Potencia del láser** | 40% |
 | **Tipo de operación** | Corte vectorial lineal |
 
-![Plano 2D en formato DXF](./img_f1/dxf.png){ width=50% } ![Interfaz de Falcon Design Space y corte en proceso](./img_f1/corte.png){ width=50% }
-![Foto del corte laser, maquina1](./img_f1/maquina1.png){ width=50% } ![Foto del corte laser, maquina2](./img_f1/maquina2.png){ width=50% }
+![Plano 2D en formato DXF](./img_f1/dxf.png){ width=50% }![Interfaz de Falcon Design Space y corte en proceso](./img_f1/corte.png){ width=50% }![Foto del corte laser, maquina1](./img_f1/maquina1.png){ width=50% }![Foto del corte laser, maquina2](./img_f1/maquina2.png){ width=50% }
 ![MDF cortado](./img_f1/mdf.png){ width=50% }
 
 <br>
@@ -67,12 +66,7 @@ El armado del monoplaza siguió un orden modular para asegurar la rigidez del ch
 4. **Alerón y habitáculo:** Ensamble de la cola trasera (**P18**, **P7**, **P10**), seguido del asiento (**P15**) y soportes de la parte de arriba (**P1**)
 5. **Frontal y ruedas externas:** Acople de la nariz (**P19**), decoraciones laterales (**P11**), ensamble los 16 discos de llantas (**P23**) con sus rines que servian de tapones (**P24**) y paneles laterales de cierre (**P22**)
 
-![Proceso](./img_f1/armado1.png){ width=50% } ![Proceso](./img_f1/armado2.png){ width=50% }
-![Proceso](./img_f1/armado3.png){ width=50% } ![Proceso](./img_f1/armado4.png){ width=50% }
-![Proceso](./img_f1/armado5.png){ width=50% } ![Proceso](./img_f1/armado6.png){ width=50% }
-![Proceso](./img_f1/armado7.png){ width=50% } ![Proceso](./img_f1/armado8.png){ width=50% }
-![Proceso](./img_f1/armado9.png){ width=50% } ![Proceso](./img_f1/armado10.png){ width=50% }
-![Proceso](./img_f1/armado11.png){ width=50% } ![Proceso](./img_f1/armado12.png){ width=50% }
+![Proceso](./img_f1/armado1.png){ width=50% }![Proceso](./img_f1/armado2.png){ width=50% }![Proceso](./img_f1/armado3.png){ width=50% }![Proceso](./img_f1/armado4.png){ width=50% }![Proceso](./img_f1/armado5.png){ width=50% }![Proceso](./img_f1/armado6.png){ width=50% }![Proceso](./img_f1/armado7.png){ width=50% }![Proceso](./img_f1/armado8.png){ width=50% }![Proceso](./img_f1/armado9.png){ width=50% }![Proceso](./img_f1/armado10.png){ width=50% }![Proceso](./img_f1/armado11.png){ width=50% }![Proceso](./img_f1/armado12.png){ width=50% }
 
 ---
 
