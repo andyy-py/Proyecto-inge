@@ -50,7 +50,7 @@ Para lograr una pieza completamente articulada y funcional se requirieron **4 in
 
 Tras corregir las interferencias y ajustar el mecanismo de puenteo, la pieza logró articularse libremente al salir de la cama de impresión sin necesidad de ensamble posterior.
 
-![Modelo 3D articulado final terminado](./img_osito/final1.png){ width=48% }![Modelo 3D articulado final terminado](./img_osito/final2.png){ width=48% }
+![Modelo 3D articulado final terminado](./img_osito/final.png){ width=48% }![Modelo 3D articulado final terminado](./img_osito/final2.png){ width=48% }
 ---
 
 ## 5. Archivos del Proyecto
