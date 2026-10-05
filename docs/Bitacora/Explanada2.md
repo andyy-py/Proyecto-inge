@@ -74,9 +74,7 @@ Es una máquina herramienta utilizada para el mecanizado de piezas mediante el a
 - **Puesta en marcha:** El encendido sigue una secuencia de seguridad: se gira la perilla selectora para definir el sentido de giro y rango de velocidad, y posteriormente se presiona el botón de arranque principal
 - **Sujeción de la pieza:** Cuenta con una mesa de trabajo ranurada donde se fija firmemente la pieza (o un bloque de madera/metal) mediante un tornillo de banco o prensas de sujeción para evitar cualquier vibración o desplazamiento peligroso durante el mecanizado
 
-![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=35% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=35% }![Fresadora vertical de taller 3](./img_taller/fresadora4.png){ width=35% } <br>
-
-![Fresadora vertical de taller 4](./img_taller/fresadora3.png){ width=48% }
+![Fresadora vertical de taller 1](./img_taller/fresadora1.png){ width=28% }![Fresadora vertical de taller 2](./img_taller/fresadora2.png){ width=28% }![Fresadora vertical de taller 3](./img_taller/fresadora4.png){ width=28% }![Fresadora vertical de taller 4](./img_taller/fresadora3.png){ width=48% }
 
 [*Demostración de funcionamiento: Fresadora*](./img_taller/uso_fresadora.mp4) <br>
 
