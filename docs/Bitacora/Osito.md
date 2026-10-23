@@ -5,7 +5,6 @@ autor: "Andrea Paola Carmona Casiano"
 
 # Modelo Articulado 3D - Osito
 
-
 ## 1. Diseño y Modelado de Uniones en SolidWorks
 
 El diseño del modelo se dividió en componentes principales: **cabeza, cuerpo, patas frontales y patas traseras**, integrados a través de un archivo de ensamble
