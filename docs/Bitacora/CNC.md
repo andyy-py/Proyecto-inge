@@ -24,7 +24,7 @@ NC Viewer trabaja sobre un sistema Cartesiano XYZ:
 
 ---
 
-![NC VIEWER](./img_cnc/nc_viewer.jpeg){ width=35% } <br>
+![NC VIEWER](./img_cnc/nc_viewer.jpeg){ width=40% } <br>
 
 ---
 
@@ -42,7 +42,7 @@ Programar coordenadas manualmente a código G puede ser complejo. Por ello, util
 
 ---
 
-![VCarve Pro](./img_cnc/figura1.png){ width=35% }![Profile](./img_cnc/figura2.png){ width=35% }![Pocket](./img_cnc/figura3.png){ width=35% }
+![VCarve Pro](./img_cnc/figura1.png){ width=40% }![Profile](./img_cnc/figura2.png){ width=40% }![Pocket](./img_cnc/figura3.png){ width=40% } <br>
 ![Guardado](./img_cnc/figura4.png){ width=35% }
 
 ---
@@ -53,7 +53,7 @@ Esta máquina es un equipo industrial de mayor escala. Cuenta con un sistema de 
 
 ---
 
-![Maquina negra](./img_cnc/maquina_negra1.jpeg){ width=35% }![Maquina Negra con material](./img_cnc/unicel_rosa.jpeg){ width=35% } 
+![Maquina negra](./img_cnc/maquina_negra1.jpeg){ width=40% }![Maquina Negra con material](./img_cnc/unicel_rosa.jpeg){ width=40% } 
 
 ---
 
@@ -63,7 +63,7 @@ Esta máquina es un equipo industrial de mayor escala. Cuenta con un sistema de 
 
 ---
 
-![Corta](./img_cnc/broca.jpeg){ width=35% }![Herramienta](./img_cnc/partes.jpeg){ width=35% }
+![Corta](./img_cnc/broca.jpeg){ width=40% }![Herramienta](./img_cnc/partes.jpeg){ width=40% }
 
 ---
 
@@ -75,7 +75,7 @@ Esta máquina es un equipo industrial de mayor escala. Cuenta con un sistema de 
 
 ---
 
-![Botones](./img_cnc/botones.jpeg){ width=35% }![Control](./img_cnc/control.jpeg){ width=35% }
+![Botones](./img_cnc/botones.jpeg){ width=40% }![Control](./img_cnc/control.jpeg){ width=40% }
 
 ---
 
@@ -100,7 +100,7 @@ En esta práctica trabajamos con **unicel rosa** (extruido). A diferencia de la 
 
 ---
 
-![Interfaz](./img_cnc/interfaz.jpeg){ width=35% } <br>
+![Interfaz](./img_cnc/interfaz.jpeg){ width=40% }![Maquina Roja](./img_cnc/maquina_roja.jpeg){ width=40% }
 
 ---
 
@@ -108,15 +108,14 @@ En esta práctica trabajamos con **unicel rosa** (extruido). A diferencia de la 
 
 ---
 
-![Maquina Roja](./img_cnc/maquina_roja.jpeg){ width=35% } <br>
-![Cortando 1](./img_cnc/cortando1.jpeg){ width=35% }![Cortando 2](./img_cnc/cortando2.jpeg){ width=35% }
+![Cortando 1](./img_cnc/cortando1.jpeg){ width=40% }![Cortando 2](./img_cnc/cortando2.jpeg){ width=40% }
 
 ---
 
 ## Pieza Finalizada
 ---
 
-![Cortado](./img_cnc/cortado.jpeg){ width=35% }![Final](./img_cnc/final.jpeg){ width=35% }
+![Cortado](./img_cnc/cortado.jpeg){ width=40% }![Final](./img_cnc/final.jpeg){ width=40% }
 
 ---
 
