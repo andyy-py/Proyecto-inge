@@ -53,7 +53,7 @@ En las impresoras 3D de resina (SLA/DLP), la impresión se realiza capa por capa
 ![Plataforma 1](./img_moldes/contramolde/plataforma_1.jpeg){ width=35% }
 ![Plataforma 2](./img_moldes/contramolde/plataforma_2.jpeg){ width=35% }
 ![Plataforma 3](./img_moldes/contramolde/plataforma_3.jpeg){ width=35% }
-![Plataforma 4](./img_moldes/contramolde/plataforma_.jpeg){ width=35% }
+![Plataforma 4](./img_moldes/contramolde/plataforma_4.jpeg){ width=35% }
 
 ---
 
@@ -135,16 +135,16 @@ Para obtener la flexibilidad adecuada y evitar imperfecciones por viscosidad:
 2. **Diluyente:** Se añadió un **20% de diluyente para silicón** para reducir la viscosidad de la mezcla, permitiendo que el material fluya por todos los detalles del contramolde y libere atrapamientos de aire fácilmente.
 3. **Catalización:** Una vez homogenizada la mezcla sin presencia de burbujas visibles, se integró el catalizador a la proporción indicada por el fabricante para activar la vulcanización. <br>
 
-**Materiales**
+**Materiales** <br>
 ![Silicon](./img_moldes/molde/silicon.jpeg){ width=35% }
 ![Diluyente](./img_moldes/molde/diluyente_silicon.jpeg){ width=35% }
 ![Catalizador](./img_moldes/molde/catalizador.jpeg){ width=35% } <br>
 
-**Proceso**
+**Proceso** <br>
 ![Mezcla 1](./img_moldes/molde/mezcla_1.jpeg){ width=35% }
 ![Mezcla 2](./img_moldes/molde/mezcla_2.jpeg){ width=35% } <br>
 
-**Molde**
+**Molde** <br>
 ![Molde](./img_moldes/molde/molde.jpeg){ width=35% }
 ---
 
@@ -179,7 +179,7 @@ Al desmoldar, las piezas de yeso recién fraguadas presentaban pequeñas rebabas
 - **Detallado y Retoque:** Con una herramienta de pulido de grano fino se rebajaron las imperfecciones y se pulieron los bordes.
 - Se fabricaron un total de **5 patitos de yeso**, logrando un acabado liso, uniforme y sin presencia de cavidades por aire.
 
-![Casi final](./img_moldes/figura/casi_final.jpeg){ width=35% }
+![Casi final](./img_moldes/figura/casi_final.jpeg){ width=35% } <br>
 ![Final](./img_moldes/figura/final.jpeg){ width=35% }
 
 [**Descargar Archivos del Contramolde (.ZIP)**](./ZIPS/Contramolde.zip)
