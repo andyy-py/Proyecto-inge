@@ -5,8 +5,8 @@ autor: "Andrea Paola Carmona Casiano"
 
 # Fundición de Metal en Arena
 
-> **Advertencias de Seguridad:**
-> * **Riesgo Respiratorio:** La arena de fundición utilizada (*arena roja aglomerada*) contiene sílice fina y aglutinantes que resultan **tóxicos y cancerígenos si se inhalan**. Es obligatorio utilizar mascarilla o respirador adecuado durante su manipulación.
+> **Advertencias de Seguridad:** <br>
+> * **Riesgo Respiratorio:** La arena de fundición utilizada (*arena roja aglomerada*) contiene sílice fina y aglutinantes que resultan **tóxicos y cancerígenos si se inhalan**. Es obligatorio utilizar mascarilla o respirador adecuado durante su manipulación. <br>
 > * **Riesgo Térmico:** El horno opera a altas temperaturas ($320\text{ }^\circ\text{C}$) y el metal fundido puede provocar quemaduras graves. Se debe portar equipo de protección personal completo (traje aluminizado/ignífugo, careta facial y guantes de carnaza) y trabajar estrictamente sobre superficies metálicas.
 
 ---
@@ -68,7 +68,7 @@ El molde de arena armado se colocó previamente sobre una **mesa de trabajo met�
 
 * Con movimiento continuo y controlado, se vertió el estaño líquido a través del bebedero hasta llenar por completo la cavidad del molde.
 
-![Vaciado 1](./img_metal/vaciado_1.jpeg){ width=35% }
+![Vaciado 1](./img_metal/vaciado_1.jpeg){ width=35% } <br>
 ![Vaciado 2](./img_metal/vaciado_2.jpeg){ width=35% }
 
 
