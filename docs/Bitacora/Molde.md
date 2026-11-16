@@ -5,11 +5,6 @@ autor: "Andrea Paola Carmona Casiano"
 
 # Fabricación de Contramolde, Molde de Silicón y Figura de Yeso
 
-## Introducción
-En esta práctica se describe el proceso completo de diseño y fabricación de un contramolde impreso en resina 3D, la elaboración de un molde de caucho de silicón a partir de dicho contramolde y, finalmente, la colada y acabado de piezas finales en yeso ("Patitos").
-
----
-
 ## 1. Fabricación del Contramolde
 
 ### 1.1 Modelo Base
